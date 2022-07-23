@@ -1,7 +1,7 @@
 
 {                                                                                
-  "name": "be.eloistree.inamedboolean",                              
-  "displayName": "I Named Boolean",                        
+  "name": "be.omi.inamedboolean",                              
+  "displayName": "INamedBoolean",                        
   "version": "0.0.1",                         
   "unity": "2018.1",                             
   "unityRelease": "",                             
