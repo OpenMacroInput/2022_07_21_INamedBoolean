@@ -19,8 +19,10 @@ public interface INamedBooleanGet
     public string GetName();
     public bool GetValue();
 }
+
 public interface INamedBooleanSettable : INamedBoolean, INamedBooleanSet
 {}
+
 public interface INamedBooleanSet
 {
     public void SetName(in string name);
